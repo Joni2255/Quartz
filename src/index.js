@@ -32,6 +32,6 @@ import ArtefactoCotizacion from './models/ArtefactoCotizacion.js'
 
 app.use('/', routes)
 
-app.listen(3005, () => {
-	console.log('App listening at http://localhost:3005/')
+app.listen(3000, () => {
+	console.log('App listening at http://localhost:3000/')
 })
