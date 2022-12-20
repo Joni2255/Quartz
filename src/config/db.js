@@ -4,6 +4,5 @@ export default new Sequelize('app_panel_7zux', 'app_panel_7zux_user', 'Dm4Thq0Cd
     host: 'dpg-cedbcbcgqg45ht8rv230-a', 
     dialect: 'postgres',
     port: '5432',
-    dialectOptions: {},
     logging: false
 })
